@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Attendance</string>
+    <string name="default_attendance">0</string>
+    <string name="default_tnc">0</string>
+</resources>
